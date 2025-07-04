@@ -1,2 +1,2 @@
-# SkripsinyaAde
-Repositori ini berisi sintaks untuk mendukung pengerjaan tugas akhir dengan topik Grey Model Forecasting.
+# Fractional Discrete Grey Model with Dynamic Parameter and Grey Wolf Optimizer – Implementation on Estimating (Forecasting) of Natural Gas Production
+This project is part of my undergraduate thesis for Bachelor's degree. I implemented one kind of forecasting model, that is Fractional Discrete Grey Model, combined with GWO algorithm and additional implementation in Dynamic Parameter. I utilized Python software to build the full syntax of the forecasting model. Results show that based on three metrics of accuracy measurement, this model has higher performance and better testing result so this model is implemented to predict the Indonesia's natural gas production for 2024-2026 period.
